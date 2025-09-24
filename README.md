@@ -1,0 +1,1 @@
+Comparador de Títulos de Renda Fixa – Uma ferramenta em Python que permite comparar múltiplos investimentos em renda fixa, calculando rentabilidade líquida, lucro e posicionamento de cada aplicação de forma simples e rápida.
